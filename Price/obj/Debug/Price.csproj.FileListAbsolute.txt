@@ -1,0 +1,8 @@
+C:\Users\м\OneDrive\Рабочий стол\Универ\Новая папка\Price\bin\Debug\Price.exe.config
+C:\Users\м\OneDrive\Рабочий стол\Универ\Новая папка\Price\bin\Debug\Price.exe
+C:\Users\м\OneDrive\Рабочий стол\Универ\Новая папка\Price\bin\Debug\Price.pdb
+C:\Users\м\OneDrive\Рабочий стол\Универ\Новая папка\Price\obj\Debug\Price.csproj.AssemblyReference.cache
+C:\Users\м\OneDrive\Рабочий стол\Универ\Новая папка\Price\obj\Debug\Price.csproj.SuggestedBindingRedirects.cache
+C:\Users\м\OneDrive\Рабочий стол\Универ\Новая папка\Price\obj\Debug\Price.csproj.CoreCompileInputs.cache
+C:\Users\м\OneDrive\Рабочий стол\Универ\Новая папка\Price\obj\Debug\Price.exe
+C:\Users\м\OneDrive\Рабочий стол\Универ\Новая папка\Price\obj\Debug\Price.pdb
